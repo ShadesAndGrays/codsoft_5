@@ -1,0 +1,3 @@
+*.rgl
+.cache/
+setEnv.sh
